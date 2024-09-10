@@ -1,6 +1,6 @@
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import edu.depaul.cs435.hw1.IPChecksum;
+import edu.depaul.csc435.hw1.IPChecksum;
 
 import org.junit.jupiter.api.Test;
 

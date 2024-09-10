@@ -1,0 +1,18 @@
+{
+    "server_dns_port": 30000,
+    "server_rest_port": 40000,
+    "records": [
+        {
+            "type": "A",
+            "class": "IN",
+            "name": "google.com",
+            "value": "74.125.21.102"
+        },
+        {
+            "type": "A",
+            "class": "IN",
+            "name": "apple.com",
+            "value": "17.253.144.10"
+        }
+    ]
+}
